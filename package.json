@@ -1,0 +1,9 @@
+{
+  "name": "@jciedu/noop",
+  "version": "1.0.0",
+  "description": "noop function",
+  "main": "index.js",
+  "repository": "https://github.com/vue3d/iconfont.git",
+  "author": "lichao7457",
+  "license": "MIT"
+}
