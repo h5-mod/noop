@@ -1,6 +1,6 @@
 {
   "name": "@jciedu/noop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "noop function",
   "main": "index.js",
   "repository": "https://github.com/h5-mod/noop.git",
